@@ -1,0 +1,5 @@
+PracticeR
+weekR
+PracticeT
+weekT
+weekSecret

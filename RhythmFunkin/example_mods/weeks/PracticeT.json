@@ -1,0 +1,59 @@
+{
+	"storyName": "Practice taptroupe",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "PracticeR",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"practice-taptroupe1",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"practice-taptroupe2",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"practice-taptroupe3",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"practice-taptroupe4",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"StoryBG",
+		"taptroupeselection",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "practiceT"
+}

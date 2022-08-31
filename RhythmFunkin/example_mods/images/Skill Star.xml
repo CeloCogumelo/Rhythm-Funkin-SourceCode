@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Skill Star.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Got Skill instância 10000" x="0" y="0" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10001" x="231" y="0" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10002" x="462" y="0" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10003" x="693" y="0" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10004" x="924" y="0" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10005" x="1155" y="0" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10006" x="1386" y="0" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10007" x="1617" y="0" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10008" x="0" y="230" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10009" x="231" y="230" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10010" x="462" y="230" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10011" x="693" y="230" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10012" x="924" y="230" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10013" x="1155" y="230" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10014" x="1386" y="230" width="221" height="220"/>
+	<SubTexture name="Got Skill instância 10015" x="1617" y="230" width="221" height="220"/>
+	<SubTexture name="No Skill instância 10000" x="1848" y="230" width="169" height="164"/>
+	<SubTexture name="Skill Issue instância 10000" x="0" y="460" width="188" height="183"/>
+	<SubTexture name="Skill Issue instância 10001" x="198" y="460" width="188" height="183"/>
+	<SubTexture name="Skill Issue instância 10002" x="396" y="460" width="188" height="183"/>
+	<SubTexture name="Skill Issue instância 10003" x="594" y="460" width="188" height="183"/>
+	<SubTexture name="Skill Issue instância 10004" x="792" y="460" width="188" height="183"/>
+	<SubTexture name="Skill Issue instância 10005" x="990" y="460" width="188" height="183"/>
+	<SubTexture name="Skill Issue instância 10006" x="1188" y="460" width="188" height="183"/>
+	<SubTexture name="Skill Issue instância 10007" x="1386" y="460" width="188" height="183"/>
+	<SubTexture name="Skill Issue instância 10008" x="1584" y="460" width="188" height="183"/>
+	<SubTexture name="Skill Issue instância 10009" x="1782" y="460" width="188" height="183"/>
+	<SubTexture name="Skill Issue instância 10010" x="0" y="653" width="188" height="183"/>
+	<SubTexture name="Skill Issue instância 10011" x="198" y="653" width="188" height="183"/>
+</TextureAtlas>

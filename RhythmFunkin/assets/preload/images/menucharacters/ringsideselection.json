@@ -1,0 +1,11 @@
+{
+	"idle_anim": "RingSideMenu",
+	"image": "RingSideSelection",
+	"position": [
+		115,
+		-21
+	],
+	"flipX": false,
+	"scale": 1.05,
+	"confirm_anim": "M Dad Idle"
+}

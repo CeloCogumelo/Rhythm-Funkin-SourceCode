@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_story_mode.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="story_mode basic10000" x="0" y="0" width="671" height="93"/>
+	<SubTexture name="story_mode basic10001" x="0" y="0" width="671" height="93"/>
+	<SubTexture name="story_mode basic10002" x="0" y="0" width="671" height="93"/>
+	<SubTexture name="story_mode basic10003" x="0" y="0" width="671" height="93"/>
+	<SubTexture name="story_mode basic10004" x="0" y="0" width="671" height="93"/>
+	<SubTexture name="story_mode basic10005" x="0" y="0" width="671" height="93"/>
+	<SubTexture name="story_mode basic10006" x="0" y="0" width="671" height="93"/>
+	<SubTexture name="story_mode basic10007" x="0" y="0" width="671" height="93"/>
+	<SubTexture name="story_mode basic10008" x="0" y="0" width="671" height="93"/>
+	<SubTexture name="story_mode basic10009" x="0" y="0" width="671" height="93"/>
+	<SubTexture name="story_mode white10000" x="0" y="103" width="806" height="99"/>
+	<SubTexture name="story_mode white10001" x="0" y="103" width="806" height="99"/>
+	<SubTexture name="story_mode white10002" x="0" y="212" width="806" height="99"/>
+	<SubTexture name="story_mode white10003" x="0" y="212" width="806" height="99"/>
+	<SubTexture name="story_mode white10004" x="0" y="321" width="806" height="99"/>
+	<SubTexture name="story_mode white10005" x="0" y="321" width="806" height="99"/>
+	<SubTexture name="story_mode white10006" x="0" y="321" width="806" height="99"/>
+	<SubTexture name="story_mode white10007" x="0" y="321" width="806" height="99"/>
+	<SubTexture name="story_mode white10008" x="0" y="321" width="806" height="99"/>
+	<SubTexture name="story_mode white10009" x="0" y="321" width="806" height="99"/>
+	<SubTexture name="story_mode white10010" x="0" y="321" width="806" height="99"/>
+	<SubTexture name="story_mode white10011" x="0" y="321" width="806" height="99"/>
+	<SubTexture name="story_mode white10012" x="0" y="321" width="806" height="99"/>
+	<SubTexture name="story_mode white10013" x="0" y="321" width="806" height="99"/>
+</TextureAtlas>

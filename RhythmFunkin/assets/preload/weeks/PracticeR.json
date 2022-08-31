@@ -1,0 +1,49 @@
+{
+	"storyName": "Ringside practice",
+	"difficulties": "Normal",
+	"hideFreeplay": true,
+	"weekBackground": "ringside",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"StoryBG",
+		"RingSideSelection",
+		""
+	],
+	"songs": [
+		[
+			"practice-question",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"practice-big-guy",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"practice-pose",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "PracticeR"
+}

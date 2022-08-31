@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "woah",
+			"text": "WHOOOA!",
+			"boxState": "normal",
+			"portrait": "reportertalk",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "Continuing...",
+			"boxState": "normal",
+			"portrait": "reportertalk",
+			"speed": 0.04
+		},
+		{
+			"expression": "talk",
+			"text": "when the photographers are ready\\nthey'll want you to strike a pose",
+			"boxState": "normal",
+			"portrait": "reportertalk",
+			"speed": 0.035
+		},
+		{
+			"expression": "talk",
+			"text": "Then Strike a pose by pressing DOWN",
+			"boxState": "normal",
+			"portrait": "reportertalk",
+			"speed": 0.04
+		},
+		{
+			"expression": "talk",
+			"text": "bep",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		}
+	]
+}

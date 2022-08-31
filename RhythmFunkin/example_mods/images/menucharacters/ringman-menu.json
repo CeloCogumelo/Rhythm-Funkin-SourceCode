@@ -1,0 +1,10 @@
+{
+	"idle_anim": "RingMan",
+	"image": "RingMan-Menu",
+	"position": [
+		261,
+		299
+	],
+	"scale": 0.4,
+	"confirm_anim": "M Dad Idle"
+}

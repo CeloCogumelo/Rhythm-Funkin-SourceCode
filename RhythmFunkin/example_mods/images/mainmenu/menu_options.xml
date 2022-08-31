@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_options.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="options basic10000" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="options basic10001" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="options basic10002" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="options basic10003" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="options basic10004" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="options basic10005" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="options basic10006" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="options basic10007" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="options basic10008" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="options basic10009" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="options white10000" x="0" y="102" width="806" height="98"/>
+	<SubTexture name="options white10001" x="0" y="102" width="806" height="98"/>
+	<SubTexture name="options white10002" x="0" y="210" width="806" height="98"/>
+	<SubTexture name="options white10003" x="0" y="210" width="806" height="98"/>
+	<SubTexture name="options white10004" x="0" y="318" width="806" height="98"/>
+	<SubTexture name="options white10005" x="0" y="318" width="806" height="98"/>
+	<SubTexture name="options white10006" x="0" y="318" width="806" height="98"/>
+	<SubTexture name="options white10007" x="0" y="318" width="806" height="98"/>
+	<SubTexture name="options white10008" x="0" y="318" width="806" height="98"/>
+	<SubTexture name="options white10009" x="0" y="318" width="806" height="98"/>
+	<SubTexture name="options white10010" x="0" y="318" width="806" height="98"/>
+	<SubTexture name="options white10011" x="0" y="318" width="806" height="98"/>
+	<SubTexture name="options white10012" x="0" y="318" width="806" height="98"/>
+	<SubTexture name="options white10013" x="0" y="318" width="806" height="98"/>
+</TextureAtlas>

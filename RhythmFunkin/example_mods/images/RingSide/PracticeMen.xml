@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PracticeMen.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="damp 10000" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10000" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10001" x="1004" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10002" x="2008" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10003" x="3012" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10004" x="0" y="1023" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10005" x="1004" y="1023" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10006" x="2008" y="1023" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10007" x="3012" y="1023" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10008" x="0" y="2046" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10009" x="1004" y="2046" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10010" x="2008" y="2046" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10011" x="3012" y="2046" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10012" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10013" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10014" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10015" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10016" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10017" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10018" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10019" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10020" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10021" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10022" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10023" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10024" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10025" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10026" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10027" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10028" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10029" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10030" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10031" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10032" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10033" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10034" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10035" x="0" y="0" width="1004" height="1023"/>
+	<SubTexture name="Pjump 10036" x="0" y="0" width="1004" height="1023"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "TapperTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OK!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "TapperTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Lets try that again but a bit shorter this\\ntime."
+		}
+	]
+}

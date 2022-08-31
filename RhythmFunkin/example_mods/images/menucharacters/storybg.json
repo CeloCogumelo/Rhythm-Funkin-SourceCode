@@ -1,0 +1,11 @@
+{
+	"idle_anim": "StoryBG",
+	"image": "StoryBG",
+	"position": [
+		164,
+		14
+	],
+	"flipX": false,
+	"scale": 1.03,
+	"confirm_anim": "M Dad Idle"
+}

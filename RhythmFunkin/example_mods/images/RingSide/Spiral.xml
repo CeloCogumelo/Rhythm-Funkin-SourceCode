@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Spiral.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Circle_Thing 10000" x="0" y="0" width="3624" height="3614"/>
+	<SubTexture name="Circle_Thing 10001" x="0" y="0" width="3624" height="3614"/>
+	<SubTexture name="Circle_Thing 10002" x="0" y="0" width="3624" height="3614"/>
+	<SubTexture name="Circle_Thing 10003" x="0" y="0" width="3624" height="3614"/>
+	<SubTexture name="Circle_Thing 10004" x="0" y="0" width="3624" height="3614"/>
+	<SubTexture name="Circle_Thing 10005" x="0" y="0" width="3624" height="3614"/>
+	<SubTexture name="Circle_Thing 10006" x="3624" y="0" width="3624" height="3614"/>
+	<SubTexture name="Circle_Thing 10007" x="3624" y="0" width="3624" height="3614"/>
+	<SubTexture name="Circle_Thing 10008" x="3624" y="0" width="3624" height="3614"/>
+	<SubTexture name="Circle_Thing 10009" x="3624" y="0" width="3624" height="3614"/>
+	<SubTexture name="Circle_Thing 10010" x="3624" y="0" width="3624" height="3614"/>
+	<SubTexture name="Circle_Thing 10011" x="3624" y="0" width="3624" height="3614"/>
+</TextureAtlas>

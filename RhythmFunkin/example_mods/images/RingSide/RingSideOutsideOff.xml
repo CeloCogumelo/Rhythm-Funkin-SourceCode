@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RingSide Outside Off.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="LightsOff 10000" x="0" y="0" width="909" height="643"/>
+	<SubTexture name="LightsOff 10001" x="0" y="0" width="909" height="643"/>
+	<SubTexture name="LightsOff 10002" x="909" y="0" width="909" height="643"/>
+	<SubTexture name="LightsOff 10003" x="909" y="0" width="909" height="643"/>
+	<SubTexture name="LightsOff 10004" x="0" y="643" width="909" height="643"/>
+	<SubTexture name="LightsOff 10005" x="0" y="643" width="909" height="643"/>
+	<SubTexture name="LightsOff 10006" x="909" y="643" width="909" height="643"/>
+	<SubTexture name="LightsOff 10007" x="909" y="643" width="909" height="643"/>
+	<SubTexture name="LightsOff 10008" x="909" y="643" width="909" height="643"/>
+	<SubTexture name="LightsOff 10009" x="0" y="1286" width="909" height="643"/>
+	<SubTexture name="LightsOff 10010" x="0" y="1286" width="909" height="643"/>
+	<SubTexture name="LightsOff 10011" x="0" y="1286" width="909" height="643"/>
+	<SubTexture name="LightsOff 10012" x="0" y="1286" width="909" height="643"/>
+	<SubTexture name="LightsOff 10013" x="0" y="1286" width="909" height="643"/>
+	<SubTexture name="LightsOff 10014" x="0" y="1286" width="909" height="643"/>
+</TextureAtlas>

@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "tappertalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Welcome BF"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bep"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "TapperTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "before we start you should wear this."
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "tappertalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hey that looks very good on you!"
+		},
+		{
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "TapperBFTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep :)"
+		},
+		{
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "TapperTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Alright lets start with the basics\\nPress Up To Tap in sync with us."
+		}
+	]
+}

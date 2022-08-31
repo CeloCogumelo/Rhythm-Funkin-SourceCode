@@ -1,0 +1,37 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		-10
+	],
+	"scale": 1.45,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-1,
+				-13
+			],
+			"idle_offsets": [
+				-1,
+				-13
+			],
+			"loop_name": "Talk",
+			"idle_name": "Still"
+		},
+		{
+			"loop_name": "WOAH",
+			"idle_offsets": [
+				-2,
+				-13
+			],
+			"idle_name": "Surprise",
+			"anim": "woah",
+			"loop_offsets": [
+				-1,
+				-14
+			]
+		}
+	],
+	"image": "ReporterTalk"
+}

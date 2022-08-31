@@ -1,0 +1,36 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "TapperTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That's it. I think we're ready!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TapperTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Good Luck Boyfriend!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TapperBFTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TapperTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "All right, showtime!\\nBreak a leg, everbody."
+		}
+	]
+}

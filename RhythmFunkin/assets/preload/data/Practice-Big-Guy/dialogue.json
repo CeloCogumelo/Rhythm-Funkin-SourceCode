@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "reportertalk",
+			"boxState": "normal",
+			"expression": "woah",
+			"text": "WOW, you were great!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "bap!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "reportertalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "let's move on"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "reportertalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "when i say something like \\nWow You Go Big Guy!\\nthat's a good time to show it off"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "reportertalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Then press UP two times,\\nIts a litte tricky but is easy to do."
+		}
+	]
+}

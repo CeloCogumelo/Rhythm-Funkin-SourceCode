@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_mods.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="mods basic10000" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="mods basic10001" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="mods basic10002" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="mods basic10003" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="mods basic10004" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="mods basic10005" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="mods basic10006" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="mods basic10007" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="mods basic10008" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="mods basic10009" x="0" y="0" width="671" height="92"/>
+	<SubTexture name="mods white10000" x="0" y="102" width="807" height="101"/>
+	<SubTexture name="mods white10001" x="0" y="102" width="807" height="101"/>
+	<SubTexture name="mods white10002" x="0" y="213" width="807" height="101"/>
+	<SubTexture name="mods white10003" x="0" y="213" width="807" height="101"/>
+	<SubTexture name="mods white10004" x="0" y="324" width="807" height="101"/>
+	<SubTexture name="mods white10005" x="0" y="324" width="807" height="101"/>
+	<SubTexture name="mods white10006" x="0" y="324" width="807" height="101"/>
+	<SubTexture name="mods white10007" x="0" y="324" width="807" height="101"/>
+	<SubTexture name="mods white10008" x="0" y="324" width="807" height="101"/>
+	<SubTexture name="mods white10009" x="0" y="324" width="807" height="101"/>
+	<SubTexture name="mods white10010" x="0" y="324" width="807" height="101"/>
+	<SubTexture name="mods white10011" x="0" y="324" width="807" height="101"/>
+	<SubTexture name="mods white10012" x="0" y="324" width="807" height="101"/>
+	<SubTexture name="mods white10013" x="0" y="324" width="807" height="101"/>
+</TextureAtlas>

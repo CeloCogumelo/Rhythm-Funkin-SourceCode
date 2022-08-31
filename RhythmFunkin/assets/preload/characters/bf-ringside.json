@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-11,
+				-13
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				-43
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Down Miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				3
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Miss Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-32,
+				-60
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "HEY",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				8
+			],
+			"anim": "attack",
+			"fps": 24,
+			"name": "Attack",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-15
+			],
+			"anim": "pre-attack",
+			"fps": 24,
+			"name": "Pre Attack",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-ringside",
+	"position": [
+		-230,
+		-140
+	],
+	"healthicon": "boyandman",
+	"flip_x": true,
+	"healthbar_colors": [
+		4,
+		172,
+		227
+	],
+	"camera_position": [
+		50,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

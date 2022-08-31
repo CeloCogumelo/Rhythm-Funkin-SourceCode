@@ -1,0 +1,24 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		0,
+		50
+	],
+	"scale": 1.15,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				66,
+				9
+			],
+			"idle_offsets": [
+				67,
+				8
+			],
+			"loop_name": "BFTalk",
+			"idle_name": "BFIdle"
+		}
+	],
+	"image": "TapperBFTalk"
+}

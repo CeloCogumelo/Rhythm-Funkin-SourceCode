@@ -1,0 +1,11 @@
+{
+	"idle_anim": "TapTroupeMenu",
+	"confirm_anim": "M Dad Idle",
+	"position": [
+		392,
+		-21
+	],
+	"scale": 1.05,
+	"flipX": false,
+	"image": "TapTroupeSelection"
+}

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RingMan Menu.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RingMan 10000" x="0" y="0" width="606" height="958"/>
+	<SubTexture name="RingMan 10001" x="606" y="0" width="606" height="958"/>
+	<SubTexture name="RingMan 10002" x="1212" y="0" width="606" height="958"/>
+	<SubTexture name="RingMan 10003" x="1818" y="0" width="606" height="958"/>
+	<SubTexture name="RingMan 10004" x="2424" y="0" width="606" height="958"/>
+	<SubTexture name="RingMan 10005" x="3030" y="0" width="606" height="958"/>
+	<SubTexture name="RingMan 10006" x="0" y="958" width="606" height="958"/>
+	<SubTexture name="RingMan 10007" x="0" y="958" width="606" height="958"/>
+	<SubTexture name="RingMan 10008" x="606" y="958" width="606" height="958"/>
+	<SubTexture name="RingMan 10009" x="606" y="958" width="606" height="958"/>
+	<SubTexture name="RingMan 10010" x="606" y="958" width="606" height="958"/>
+	<SubTexture name="RingMan 10011" x="606" y="958" width="606" height="958"/>
+	<SubTexture name="RingMan 10012" x="606" y="958" width="606" height="958"/>
+	<SubTexture name="RingMan 10013" x="606" y="958" width="606" height="958"/>
+</TextureAtlas>

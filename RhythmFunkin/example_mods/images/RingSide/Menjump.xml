@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menjump.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="dam 10000" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10000" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10001" x="2481" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10002" x="4962" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10003" x="0" y="1295" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10004" x="2481" y="1295" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10005" x="4962" y="1295" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10006" x="0" y="2590" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10007" x="4962" y="1295" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10008" x="2481" y="1295" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10009" x="0" y="1295" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10010" x="4962" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10011" x="2481" y="2590" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10012" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10013" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10014" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10015" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10016" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10017" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10018" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10019" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10020" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10021" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10022" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10023" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10024" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10025" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10026" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10027" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10028" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10029" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10030" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10031" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10032" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10033" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10034" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10035" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10036" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10037" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10038" x="0" y="0" width="2481" height="1295"/>
+	<SubTexture name="Jumpin 10039" x="0" y="0" width="2481" height="1295"/>
+</TextureAtlas>

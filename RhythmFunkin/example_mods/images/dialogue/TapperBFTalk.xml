@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TapperBFTalk.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BFIdle instância 10000" x="0" y="0" width="323" height="420"/>
+	<SubTexture name="BFTalk instância 10000" x="363" y="0" width="323" height="421"/>
+	<SubTexture name="BFTalk instância 10001" x="363" y="0" width="323" height="421"/>
+	<SubTexture name="BFTalk instância 10002" x="0" y="461" width="323" height="421"/>
+	<SubTexture name="BFTalk instância 10003" x="0" y="461" width="323" height="421"/>
+	<SubTexture name="BFTalk instância 10004" x="0" y="461" width="323" height="421"/>
+</TextureAtlas>

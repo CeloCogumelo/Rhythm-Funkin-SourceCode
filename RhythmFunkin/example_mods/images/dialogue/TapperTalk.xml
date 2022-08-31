@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="TapperTalk.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle instância 10000" x="0" y="0" width="223" height="523"/>
+	<SubTexture name="Talk instância 10000" x="263" y="0" width="227" height="526"/>
+	<SubTexture name="Talk instância 10001" x="263" y="0" width="227" height="526"/>
+	<SubTexture name="Talk instância 10002" x="530" y="0" width="227" height="526"/>
+	<SubTexture name="Talk instância 10003" x="530" y="0" width="227" height="526"/>
+</TextureAtlas>

@@ -1,0 +1,210 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-5,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "bump",
+			"fps": 24,
+			"name": "Bumpin",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				91,
+				159
+			],
+			"anim": "GettinReadyLeft",
+			"fps": 24,
+			"name": "GettinReadyLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				161
+			],
+			"anim": "GettinReadyRight",
+			"fps": 24,
+			"name": "GettinReadyRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				244
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "LeftTap",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-16,
+				228
+			],
+			"anim": "LeftyTap",
+			"fps": 24,
+			"name": "LeftyTap",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				40,
+				244
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "RightTap",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				62,
+				348
+			],
+			"anim": "PanLeft",
+			"fps": 24,
+			"name": "PanLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				350
+			],
+			"anim": "PanRight",
+			"fps": 24,
+			"name": "PanRight",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				48,
+				244
+			],
+			"anim": "Start",
+			"fps": 24,
+			"name": "Start",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				176,
+				246
+			],
+			"anim": "TAAPLEFT",
+			"fps": 24,
+			"name": "TAAPLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				244
+			],
+			"anim": "TAAPRIGHT",
+			"fps": 24,
+			"name": "TAAPRIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				188
+			],
+			"anim": "TapTapLeft",
+			"fps": 24,
+			"name": "TapTapLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				188
+			],
+			"anim": "TapTapRight",
+			"fps": 24,
+			"name": "TapTapRight",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-30,
+				230
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "RightyTap",
+			"indices": [],
+			"name": "RightyTap"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-65,
+				156
+			],
+			"anim": "HoldingIT",
+			"fps": 24,
+			"name": "HoldingIT",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				160
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "ITHolding",
+			"indices": [],
+			"name": "ITHolding"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/TapLegs",
+	"position": [
+		900,
+		80
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		1220,
+		-160
+	],
+	"sing_duration": 9.99999999999999,
+	"scale": 3.8
+}

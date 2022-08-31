@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Journal.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle 10000" x="0" y="0" width="836" height="785"/>
+	<SubTexture name="Idle 10001" x="836" y="0" width="836" height="785"/>
+	<SubTexture name="Idle 10002" x="1672" y="0" width="836" height="785"/>
+	<SubTexture name="Idle 10003" x="2508" y="0" width="836" height="785"/>
+	<SubTexture name="Idle 10004" x="3344" y="0" width="836" height="785"/>
+	<SubTexture name="Idle 10005" x="4180" y="0" width="836" height="785"/>
+	<SubTexture name="Idle 10006" x="5016" y="0" width="836" height="785"/>
+	<SubTexture name="Idle 10007" x="5852" y="0" width="836" height="785"/>
+	<SubTexture name="Idle 10008" x="6688" y="0" width="836" height="785"/>
+	<SubTexture name="Idle 10009" x="0" y="785" width="836" height="785"/>
+	<SubTexture name="Idle 10010" x="836" y="785" width="836" height="785"/>
+	<SubTexture name="Idle 10011" x="1672" y="785" width="836" height="785"/>
+	<SubTexture name="Idle 10012" x="2508" y="785" width="836" height="785"/>
+	<SubTexture name="Idle 10013" x="3344" y="785" width="836" height="785"/>
+	<SubTexture name="Idle 10014" x="4180" y="785" width="836" height="785"/>
+	<SubTexture name="Idle 10015" x="5016" y="785" width="836" height="785"/>
+	<SubTexture name="Idle 10016" x="5852" y="785" width="836" height="785"/>
+	<SubTexture name="Idle 10017" x="6688" y="785" width="836" height="785"/>
+	<SubTexture name="Idle 10018" x="0" y="1570" width="836" height="785"/>
+	<SubTexture name="Idle 10019" x="836" y="1570" width="836" height="785"/>
+	<SubTexture name="Idle 10020" x="1672" y="1570" width="836" height="785"/>
+	<SubTexture name="Idle 10021" x="2508" y="1570" width="836" height="785"/>
+	<SubTexture name="Idle 10022" x="3344" y="1570" width="836" height="785"/>
+	<SubTexture name="Idle 10023" x="4180" y="1570" width="836" height="785"/>
+	<SubTexture name="Idle 10024" x="5016" y="1570" width="836" height="785"/>
+	<SubTexture name="Idle 10025" x="5852" y="1570" width="836" height="785"/>
+	<SubTexture name="Idle 10026" x="6688" y="1570" width="836" height="785"/>
+	<SubTexture name="Idle 10027" x="0" y="2355" width="836" height="785"/>
+	<SubTexture name="Idle 10028" x="836" y="2355" width="836" height="785"/>
+	<SubTexture name="Idle 10029" x="1672" y="2355" width="836" height="785"/>
+	<SubTexture name="Idle 10030" x="2508" y="2355" width="836" height="785"/>
+	<SubTexture name="Idle 10031" x="3344" y="2355" width="836" height="785"/>
+	<SubTexture name="Idle 10032" x="4180" y="2355" width="836" height="785"/>
+	<SubTexture name="Idle 10033" x="5016" y="2355" width="836" height="785"/>
+	<SubTexture name="Idle 10034" x="5852" y="2355" width="836" height="785"/>
+	<SubTexture name="Idle 10035" x="6688" y="2355" width="836" height="785"/>
+	<SubTexture name="Idle 10036" x="0" y="3140" width="836" height="785"/>
+	<SubTexture name="Idle 10037" x="836" y="3140" width="836" height="785"/>
+	<SubTexture name="Idle 10038" x="1672" y="3140" width="836" height="785"/>
+	<SubTexture name="Idle 10039" x="2508" y="3140" width="836" height="785"/>
+	<SubTexture name="Idle 10040" x="3344" y="3140" width="836" height="785"/>
+	<SubTexture name="Idle 10041" x="4180" y="3140" width="836" height="785"/>
+	<SubTexture name="Idle 10042" x="5016" y="3140" width="836" height="785"/>
+	<SubTexture name="Idle 10043" x="5852" y="3140" width="836" height="785"/>
+	<SubTexture name="Idle 10044" x="6688" y="3140" width="836" height="785"/>
+	<SubTexture name="Idle 10045" x="0" y="3925" width="836" height="785"/>
+	<SubTexture name="Idle 10046" x="836" y="3925" width="836" height="785"/>
+	<SubTexture name="Idle 10047" x="1672" y="3925" width="836" height="785"/>
+	<SubTexture name="Idle 10048" x="2508" y="3925" width="836" height="785"/>
+	<SubTexture name="Idle 10049" x="3344" y="3925" width="836" height="785"/>
+	<SubTexture name="Idle 10050" x="4180" y="3925" width="836" height="785"/>
+	<SubTexture name="Idle 10051" x="5016" y="3925" width="836" height="785"/>
+	<SubTexture name="Idle 10052" x="5852" y="3925" width="836" height="785"/>
+	<SubTexture name="Idle 10053" x="6688" y="3925" width="836" height="785"/>
+	<SubTexture name="Idle 10054" x="0" y="4710" width="836" height="785"/>
+</TextureAtlas>

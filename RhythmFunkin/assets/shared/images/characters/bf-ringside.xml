@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bf-ringside.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Attack 10000" x="0" y="0" width="1033" height="1095"/>
+	<SubTexture name="Attack 10001" x="1033" y="0" width="1033" height="1095"/>
+	<SubTexture name="Attack 10002" x="2066" y="0" width="1033" height="1095"/>
+	<SubTexture name="Attack 10003" x="3099" y="0" width="1033" height="1095"/>
+	<SubTexture name="Attack 10004" x="4132" y="0" width="1033" height="1095"/>
+	<SubTexture name="Attack 10005" x="5165" y="0" width="1033" height="1095"/>
+	<SubTexture name="Attack 10006" x="5165" y="0" width="1033" height="1095"/>
+	<SubTexture name="Down Miss 10000" x="6198" y="0" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10001" x="6198" y="0" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10002" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10003" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10004" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10005" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10006" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10007" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10008" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10009" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10010" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10011" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10012" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10013" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10014" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10015" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10016" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10017" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10018" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10019" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10020" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10021" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10022" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10023" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10024" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10025" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10026" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="Down Miss 10027" x="0" y="1095" width="1013" height="993"/>
+	<SubTexture name="HEY 10000" x="1013" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10001" x="1013" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10002" x="2033" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10003" x="2033" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10004" x="3053" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10005" x="3053" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10006" x="3053" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10007" x="3053" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10008" x="3053" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10009" x="3053" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10010" x="3053" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10011" x="3053" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10012" x="4073" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10013" x="5093" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10014" x="6113" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10015" x="7133" y="1095" width="1020" height="978"/>
+	<SubTexture name="HEY 10016" x="0" y="2088" width="1020" height="978"/>
+	<SubTexture name="HEY 10017" x="1020" y="2088" width="1020" height="978"/>
+	<SubTexture name="HEY 10018" x="2040" y="2088" width="1020" height="978"/>
+	<SubTexture name="HEY 10019" x="3060" y="2088" width="1020" height="978"/>
+	<SubTexture name="HEY 10020" x="4080" y="2088" width="1020" height="978"/>
+	<SubTexture name="HEY 10021" x="4080" y="2088" width="1020" height="978"/>
+	<SubTexture name="HEY 10022" x="4080" y="2088" width="1020" height="978"/>
+	<SubTexture name="HEY 10023" x="4080" y="2088" width="1020" height="978"/>
+	<SubTexture name="Idle 10000" x="5100" y="2088" width="1042" height="1039"/>
+	<SubTexture name="Idle 10001" x="6142" y="2088" width="1042" height="1039"/>
+	<SubTexture name="Idle 10002" x="0" y="3127" width="1042" height="1039"/>
+	<SubTexture name="Idle 10003" x="1042" y="3127" width="1042" height="1039"/>
+	<SubTexture name="Idle 10004" x="2084" y="3127" width="1042" height="1039"/>
+	<SubTexture name="Idle 10005" x="3126" y="3127" width="1042" height="1039"/>
+	<SubTexture name="Idle 10006" x="4168" y="3127" width="1042" height="1039"/>
+	<SubTexture name="Idle 10007" x="4168" y="3127" width="1042" height="1039"/>
+	<SubTexture name="Idle 10008" x="5210" y="3127" width="1042" height="1039"/>
+	<SubTexture name="Idle 10009" x="5210" y="3127" width="1042" height="1039"/>
+	<SubTexture name="Idle 10010" x="5210" y="3127" width="1042" height="1039"/>
+	<SubTexture name="Miss Up 10000" x="6252" y="3127" width="1039" height="1042"/>
+	<SubTexture name="Miss Up 10001" x="6252" y="3127" width="1039" height="1042"/>
+	<SubTexture name="Miss Up 10002" x="0" y="4169" width="1039" height="1042"/>
+	<SubTexture name="Miss Up 10003" x="0" y="4169" width="1039" height="1042"/>
+	<SubTexture name="Miss Up 10004" x="0" y="4169" width="1039" height="1042"/>
+	<SubTexture name="Miss Up 10005" x="0" y="4169" width="1039" height="1042"/>
+	<SubTexture name="Miss Up 10006" x="0" y="4169" width="1039" height="1042"/>
+	<SubTexture name="Miss Up 10007" x="0" y="4169" width="1039" height="1042"/>
+	<SubTexture name="Miss Up 10008" x="0" y="4169" width="1039" height="1042"/>
+	<SubTexture name="Miss Up 10009" x="0" y="4169" width="1039" height="1042"/>
+	<SubTexture name="Miss Up 10010" x="0" y="4169" width="1039" height="1042"/>
+	<SubTexture name="Miss Up 10011" x="0" y="4169" width="1039" height="1042"/>
+	<SubTexture name="Miss Up 10012" x="0" y="4169" width="1039" height="1042"/>
+	<SubTexture name="Miss Up 10013" x="0" y="4169" width="1039" height="1042"/>
+	<SubTexture name="Pre Attack 10000" x="1039" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10001" x="2108" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10002" x="3177" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10003" x="4246" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10004" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10005" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10006" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10007" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10008" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10009" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10010" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10011" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10012" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10013" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10014" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10015" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10016" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10017" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10018" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Pre Attack 10019" x="5315" y="4169" width="1069" height="1032"/>
+	<SubTexture name="Up 10000" x="6384" y="4169" width="1013" height="1036"/>
+	<SubTexture name="Up 10001" x="0" y="5211" width="1013" height="1036"/>
+	<SubTexture name="Up 10002" x="1013" y="5211" width="1013" height="1036"/>
+	<SubTexture name="Up 10003" x="2026" y="5211" width="1013" height="1036"/>
+	<SubTexture name="Up 10004" x="3039" y="5211" width="1013" height="1036"/>
+	<SubTexture name="Up 10005" x="4052" y="5211" width="1013" height="1036"/>
+	<SubTexture name="Up 10006" x="5065" y="5211" width="1013" height="1036"/>
+	<SubTexture name="Up 10007" x="5065" y="5211" width="1013" height="1036"/>
+	<SubTexture name="Up 10008" x="5065" y="5211" width="1013" height="1036"/>
+	<SubTexture name="Up 10009" x="5065" y="5211" width="1013" height="1036"/>
+	<SubTexture name="Up 10010" x="5065" y="5211" width="1013" height="1036"/>
+	<SubTexture name="Up 10011" x="5065" y="5211" width="1013" height="1036"/>
+	<SubTexture name="Up 10012" x="5065" y="5211" width="1013" height="1036"/>
+	<SubTexture name="Up 10013" x="5065" y="5211" width="1013" height="1036"/>
+	<SubTexture name="Up 10014" x="5065" y="5211" width="1013" height="1036"/>
+</TextureAtlas>

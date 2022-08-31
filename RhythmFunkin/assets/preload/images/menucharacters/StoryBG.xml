@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="StoryBG.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="StoryBG10000" x="0" y="0" width="1281" height="387"/>
+	<SubTexture name="StoryBG10001" x="1291" y="0" width="1281" height="387"/>
+	<SubTexture name="StoryBG10002" x="2582" y="0" width="1281" height="387"/>
+	<SubTexture name="StoryBG10003" x="3873" y="0" width="1281" height="387"/>
+	<SubTexture name="StoryBG10004" x="5164" y="0" width="1281" height="387"/>
+	<SubTexture name="StoryBG10005" x="6455" y="0" width="1281" height="387"/>
+	<SubTexture name="StoryBG10006" x="0" y="397" width="1281" height="387"/>
+	<SubTexture name="StoryBG10007" x="1291" y="397" width="1281" height="387"/>
+	<SubTexture name="StoryBG10008" x="2582" y="397" width="1281" height="387"/>
+	<SubTexture name="StoryBG10009" x="3873" y="397" width="1281" height="387"/>
+	<SubTexture name="StoryBG10010" x="5164" y="397" width="1281" height="387"/>
+	<SubTexture name="StoryBG10011" x="6455" y="397" width="1281" height="387"/>
+	<SubTexture name="StoryBG10012" x="0" y="794" width="1281" height="387"/>
+	<SubTexture name="StoryBG10013" x="1291" y="794" width="1281" height="387"/>
+	<SubTexture name="StoryBG10014" x="2582" y="794" width="1281" height="387"/>
+	<SubTexture name="StoryBG10015" x="3873" y="794" width="1281" height="387"/>
+	<SubTexture name="StoryBG10016" x="5164" y="794" width="1281" height="387"/>
+	<SubTexture name="StoryBG10017" x="6455" y="794" width="1281" height="387"/>
+	<SubTexture name="StoryBG10018" x="0" y="1191" width="1281" height="387"/>
+	<SubTexture name="StoryBG10019" x="1291" y="1191" width="1281" height="387"/>
+	<SubTexture name="StoryBG10020" x="2582" y="1191" width="1281" height="387"/>
+	<SubTexture name="StoryBG10021" x="3873" y="1191" width="1281" height="387"/>
+	<SubTexture name="StoryBG10022" x="5164" y="1191" width="1281" height="387"/>
+	<SubTexture name="StoryBG10023" x="6455" y="1191" width="1281" height="387"/>
+	<SubTexture name="StoryBG10024" x="0" y="1588" width="1281" height="387"/>
+	<SubTexture name="StoryBG10025" x="1291" y="1588" width="1281" height="387"/>
+	<SubTexture name="StoryBG10026" x="2582" y="1588" width="1281" height="387"/>
+	<SubTexture name="StoryBG10027" x="3873" y="1588" width="1281" height="387"/>
+	<SubTexture name="StoryBG10028" x="5164" y="1588" width="1281" height="387"/>
+	<SubTexture name="StoryBG10029" x="6455" y="1588" width="1281" height="387"/>
+	<SubTexture name="StoryBG10030" x="0" y="1985" width="1281" height="387"/>
+	<SubTexture name="StoryBG10031" x="1291" y="1985" width="1281" height="387"/>
+	<SubTexture name="StoryBG10032" x="2582" y="1985" width="1281" height="387"/>
+	<SubTexture name="StoryBG10033" x="3873" y="1985" width="1281" height="387"/>
+	<SubTexture name="StoryBG10034" x="5164" y="1985" width="1281" height="387"/>
+	<SubTexture name="StoryBG10035" x="6455" y="1985" width="1281" height="387"/>
+	<SubTexture name="StoryBG10036" x="0" y="2382" width="1281" height="387"/>
+	<SubTexture name="StoryBG10037" x="1291" y="2382" width="1281" height="387"/>
+	<SubTexture name="StoryBG10038" x="2582" y="2382" width="1281" height="387"/>
+	<SubTexture name="StoryBG10039" x="3873" y="2382" width="1281" height="387"/>
+	<SubTexture name="StoryBG10040" x="5164" y="2382" width="1281" height="387"/>
+	<SubTexture name="StoryBG10041" x="6455" y="2382" width="1281" height="387"/>
+	<SubTexture name="StoryBG10042" x="0" y="2779" width="1281" height="387"/>
+	<SubTexture name="StoryBG10043" x="1291" y="2779" width="1281" height="387"/>
+	<SubTexture name="StoryBG10044" x="2582" y="2779" width="1281" height="387"/>
+	<SubTexture name="StoryBG10045" x="3873" y="2779" width="1281" height="387"/>
+	<SubTexture name="StoryBG10046" x="5164" y="2779" width="1281" height="387"/>
+	<SubTexture name="StoryBG10047" x="6455" y="2779" width="1281" height="387"/>
+	<SubTexture name="StoryBG10048" x="0" y="3176" width="1281" height="387"/>
+	<SubTexture name="StoryBG10049" x="1291" y="3176" width="1281" height="387"/>
+</TextureAtlas>

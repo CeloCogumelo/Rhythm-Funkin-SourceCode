@@ -1,0 +1,569 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "RingsideFunnyBack",
+		"player1": "bf-ringside",
+		"player2": "Reporter",
+		"player3": null,
+		"events": [
+			[
+				11313.5593220339,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				12330.5084745763,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				15381.3559322034,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				16398.3050847458,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				19449.1525423729,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				20466.1016949153,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				23516.9491525424,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				24533.8983050847,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				25550.8474576271,
+				[
+					[
+						"Play Animation",
+						"WOAH",
+						"Dad"
+					]
+				]
+			],
+			[
+				25932.2033898305,
+				[
+					[
+						"Play Animation",
+						"BigGuy",
+						"Dad"
+					]
+				]
+			],
+			[
+				26567.7966101695,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				27584.7457627119,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				28601.6949152542,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				29618.6440677966,
+				[
+					[
+						"Play Animation",
+						"WOAH",
+						"Dad"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Play Animation",
+						"BigGuy",
+						"Dad"
+					]
+				]
+			],
+			[
+				30635.593220339,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				31652.5423728814,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				32669.4915254237,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				35720.3389830509,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				36737.2881355932,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				39788.1355932203,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				40805.0847457627,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				41822.0338983051,
+				[
+					[
+						"Play Animation",
+						"WOAH",
+						"Dad"
+					]
+				]
+			],
+			[
+				42203.3898305085,
+				[
+					[
+						"Play Animation",
+						"BigGuy",
+						"Dad"
+					]
+				]
+			],
+			[
+				42838.9830508475,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				43855.9322033898,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				44872.8813559322,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				47923.7288135593,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				48940.6779661017,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				49957.6271186441,
+				[
+					[
+						"Play Animation",
+						"WOAH",
+						"Dad"
+					]
+				]
+			],
+			[
+				50338.9830508475,
+				[
+					[
+						"Play Animation",
+						"BigGuy",
+						"Dad"
+					]
+				]
+			],
+			[
+				50974.5762711864,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				54025.4237288136,
+				[
+					[
+						"Play Animation",
+						"WOAH",
+						"Dad"
+					]
+				]
+			],
+			[
+				54406.779661017,
+				[
+					[
+						"Play Animation",
+						"BigGuy",
+						"Dad"
+					]
+				]
+			],
+			[
+				55042.3728813559,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				62161.0169491525,
+				[
+					[
+						"Play Animation",
+						"WOAH",
+						"Dad"
+					]
+				]
+			],
+			[
+				62542.3728813559,
+				[
+					[
+						"Play Animation",
+						"BigGuy",
+						"Dad"
+					]
+				]
+			],
+			[
+				63177.9661016949,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				66737.2881355932,
+				[
+					[
+						"SkillStartMoment",
+						"",
+						""
+					]
+				]
+			],
+			[
+				70296.6101694915,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				71313.5593220339,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				72330.5084745763,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				73347.4576271187,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				74364.406779661,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				75381.3559322034,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				76398.3050847458,
+				[
+					[
+						"Play Animation",
+						"WOAH",
+						"Dad"
+					]
+				]
+			],
+			[
+				76779.6610169492,
+				[
+					[
+						"Play Animation",
+						"BigGuy",
+						"Dad"
+					]
+				]
+			],
+			[
+				77415.2542372881,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				78432.2033898305,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				79449.1525423729,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				80466.1016949153,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				81483.0508474576,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				82500,
+				[
+					[
+						"Play Animation",
+						"WOAH",
+						"Dad"
+					]
+				]
+			],
+			[
+				82881.3559322034,
+				[
+					[
+						"Play Animation",
+						"BigGuy",
+						"Dad"
+					]
+				]
+			],
+			[
+				83516.9491525424,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 118,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "RingSide"
+	}
+}

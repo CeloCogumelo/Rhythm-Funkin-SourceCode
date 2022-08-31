@@ -1,0 +1,99 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "stage",
+		"player1": "bf-ringside",
+		"player2": "Reporter",
+		"player3": null,
+		"events": [
+			[
+				0,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				1125,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				4125,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				5125,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				8250,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				9250,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				12250,
+				[
+					[
+						"Play Animation",
+						"Talk",
+						"Dad"
+					]
+				]
+			],
+			[
+				13250,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 120,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Practice-Question"
+	}
+}

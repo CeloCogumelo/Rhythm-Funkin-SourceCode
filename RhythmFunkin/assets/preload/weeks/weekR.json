@@ -1,0 +1,31 @@
+{
+	"storyName": "Rhythm Arena",
+	"difficulties": "Hard",
+	"hideFreeplay": true,
+	"weekBackground": "ringside",
+	"weekBefore": "PracticeR",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": false,
+	"songs": [
+		[
+			"RingSide",
+			"BoyAndMan",
+			[
+				255,
+				40,
+				20
+			]
+		]
+	],
+	"weekCharacters": [
+		"StoryBG",
+		"RingsideSelection",
+		""
+	],
+	"hideStoryMode": false,
+	"weekName": "WeekR"
+}

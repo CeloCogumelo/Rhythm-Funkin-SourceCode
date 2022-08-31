@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.035,
+			"portrait": "reportertalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi boyfriend, thanks for agreeing to the\\ninterview"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "reportertalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "let's practise a bit before we turn the\\ncameras"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "reportertalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "when i ask you a question,\\npress UP to answer."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bop"
+		}
+	]
+}

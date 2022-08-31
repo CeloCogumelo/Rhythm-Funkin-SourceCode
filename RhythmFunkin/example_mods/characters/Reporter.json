@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				-1
+			],
+			"anim": "True",
+			"fps": 24,
+			"name": "Question",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1,
+				-1
+			],
+			"anim": "Talk",
+			"fps": 24,
+			"name": "Talk",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				18,
+				5
+			],
+			"anim": "WOAH",
+			"fps": 24,
+			"name": "WOAH",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "BigGuy",
+			"fps": 24,
+			"name": "BigGuy",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/reporter",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "reporter",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		122,
+		231
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

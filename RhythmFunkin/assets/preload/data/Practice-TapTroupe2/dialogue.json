@@ -1,0 +1,28 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "TapperTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OK!"
+		},
+		{
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "TapperTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Next, lets try mixing up the rhythm slightly"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "TapperTalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Listen Closely to the Rhythm!"
+		}
+	]
+}

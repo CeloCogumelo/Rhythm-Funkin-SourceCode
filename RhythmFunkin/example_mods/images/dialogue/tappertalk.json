@@ -1,0 +1,25 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		0,
+		50
+	],
+	"no_antialiasing": false,
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				-219,
+				1
+			],
+			"idle_offsets": [
+				-221,
+				-2
+			],
+			"loop_name": "Talk",
+			"idle_name": "Idle"
+		}
+	],
+	"image": "TapperTalk"
+}

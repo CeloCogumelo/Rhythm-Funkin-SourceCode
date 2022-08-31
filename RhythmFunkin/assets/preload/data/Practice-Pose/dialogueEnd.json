@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "Oh, one last thing",
+			"boxState": "normal",
+			"portrait": "reportertalk",
+			"speed": 0.04
+		},
+		{
+			"expression": "talk",
+			"text": "in the real thing, you won't be able to see\\nthe notes",
+			"boxState": "normal",
+			"portrait": "reportertalk",
+			"speed": 0.045
+		},
+		{
+			"expression": "shocked",
+			"text": "bep?",
+			"boxState": "normal",
+			"portrait": "bf",
+			"speed": 0.05
+		},
+		{
+			"expression": "talk",
+			"text": "so you have to use my voice cues to play correctly",
+			"boxState": "normal",
+			"portrait": "reportertalk",
+			"speed": 0.045
+		},
+		{
+			"speed": 0.035,
+			"portrait": "reportertalk",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "if you have difficulties,  you can always do the practice again"
+		},
+		{
+			"expression": "talk",
+			"text": "thanks for your time,\\ni'll see you after the match.",
+			"boxState": "normal",
+			"portrait": "reportertalk",
+			"speed": 0.045
+		}
+	]
+}

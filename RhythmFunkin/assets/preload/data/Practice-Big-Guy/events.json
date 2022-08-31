@@ -1,0 +1,139 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "RingsidePractice",
+		"player1": "bf-ringside",
+		"player2": "Reporter",
+		"player3": null,
+		"events": [
+			[
+				2076.92307692308,
+				[
+					[
+						"Play Animation",
+						"WOAH",
+						"Dad"
+					]
+				]
+			],
+			[
+				2423.07692307692,
+				[
+					[
+						"Play Animation",
+						"BigGuy",
+						"Dad"
+					]
+				]
+			],
+			[
+				3115.38461538462,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				6115.38461538462,
+				[
+					[
+						"Play Animation",
+						"WOAH",
+						"Dad"
+					]
+				]
+			],
+			[
+				6461.53846153846,
+				[
+					[
+						"Play Animation",
+						"BigGuy",
+						"Dad"
+					]
+				]
+			],
+			[
+				7153.84615384615,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				10269.2307692308,
+				[
+					[
+						"Play Animation",
+						"WOAH",
+						"Dad"
+					]
+				]
+			],
+			[
+				10615.3846153846,
+				[
+					[
+						"Play Animation",
+						"BigGuy",
+						"Dad"
+					]
+				]
+			],
+			[
+				11307.6923076923,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			],
+			[
+				14307.6923076923,
+				[
+					[
+						"Play Animation",
+						"WOAH",
+						"Dad"
+					]
+				]
+			],
+			[
+				14653.8461538462,
+				[
+					[
+						"Play Animation",
+						"BigGuy",
+						"Dad"
+					]
+				]
+			],
+			[
+				15346.1538461538,
+				[
+					[
+						"Play Animation",
+						"True",
+						"Dad"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 130,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Practice-Big-Guy"
+	}
+}
